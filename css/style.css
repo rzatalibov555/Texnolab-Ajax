@@ -1,0 +1,31 @@
+
+
+body{
+    margin: 0 auto;
+    padding: 0;
+   background-image: url('https://www.holidayhypermarket.co.uk/wp-content/uploads/2019/04/HH_NEWYORK_shutterstock_1740358463.png');
+   background-size: cover;
+}
+table{
+    box-shadow: 0px 0px 16px 0px #777;
+}
+
+tr{
+    text-align: center;
+    font-family: 'Californian FB';
+}
+
+.left{
+    text-align: left;
+}
+
+.side{
+    width: 100%;
+    min-height: 500px;
+    /* background: rgb(18, 105, 210); */
+    color: white;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    font-size: 30px;
+}
